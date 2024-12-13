@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 29 -27 -29 -44
+RECTANGLE Normal 29 44 -29 27
+CIRCLE Normal 64 64 -64 -64
+CIRCLE Normal 16 16 -16 -16
+TEXT 48 -80 Left 2 Unipolar Stepper Motor
+PIN 0 -64 NONE 0
+PINATTR PinName Common
+PINATTR SpiceOrder 1
+PIN -64 -32 BOTTOM 0
+PINATTR PinName 1
+PINATTR SpiceOrder 2
+PIN -64 32 TOP 0
+PINATTR PinName 2
+PINATTR SpiceOrder 3
+PIN 64 -32 BOTTOM 0
+PINATTR PinName 4
+PINATTR SpiceOrder 5
+PIN 64 32 TOP 0
+PINATTR PinName 3
+PINATTR SpiceOrder 4
